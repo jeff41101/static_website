@@ -1,1 +1,1 @@
-# static_website
+Website Practice for personal resume
